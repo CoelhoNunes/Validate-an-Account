@@ -1,10 +1,4 @@
-/*
-Daniel Coelho
-COP2210 RVC 1208
-11/21/2020 
-Module 6 | Assignment 6 - Arrays
-Sergio Pisano
- */
+
 
 import java.util.Scanner;
 import java.io.IOException;
